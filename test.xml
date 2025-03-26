@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <person>
+        <name>John Doe</name>
+        <age>30</age>
+        <gender>male</gender>
+        <address>
+            <street>123 Main St</street>
+            <city>Anytown</city>
+            <country>USA</country>
+        </address>
+    </person>
+    <person>
+        <name>Jane Smith</name>
+        <age>25</age>
+        <gender>female</gender>
+        <address>
+            <street>456 Oak Ave</street>
+            <city>Somewhere</city>
+            <country>USA</country>
+        </address>
+    </person>
+</root>
